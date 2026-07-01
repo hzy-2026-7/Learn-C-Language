@@ -1,0 +1,8 @@
+# VS编译缓存
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
